@@ -1,0 +1,2 @@
+# alpha
+The Alpha framework will be a PHP framework that ships with its own visual IDE, it is going to take a different approach on the way things are built and will be great for new developers and designers alike. The goal behind this project is to provide a sleek environment to visually drag and drop elements onto a web page, while still giving experienced developers the tools needed to build anything their hearts desire.
