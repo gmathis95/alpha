@@ -6,16 +6,14 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/gmathis95/alpha",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Alpha IDE",
+    "Alpha",
+    "Visual PHP"
   ],
   "author": "Gary Mathis",
-  "license": "CC0-1.0",
+  "license": "MIT",
   "devDependencies": {
     "electron": "~1.8.2"
   }
